@@ -1,0 +1,11 @@
+{
+  "name": "buttonbattle",
+  "addons": [
+    "logentries"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
